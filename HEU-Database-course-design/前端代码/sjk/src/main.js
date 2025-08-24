@@ -1,3 +1,4 @@
+// 暨大外卖平台
 import Vue from 'vue'
 import App from './App.vue'
 import ElementUI from 'element-ui';

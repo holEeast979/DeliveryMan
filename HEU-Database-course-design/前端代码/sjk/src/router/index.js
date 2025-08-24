@@ -1,3 +1,4 @@
+// 暨大外卖平台
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import LogRes from '@/components/MyLogReg'

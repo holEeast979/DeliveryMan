@@ -1,3 +1,4 @@
+# 暨大外卖平台
 class BaseConfig(object):
 
     # 数据库的配置
@@ -6,8 +7,8 @@ class BaseConfig(object):
     HOST = '127.0.0.1'
     PORT = "3306"
     USERNAME = "root"
-    PASSWORD = "" # 你自己电脑数据库的密码
-    DBNAME = 'wf_sql_ks'
+    PASSWORD = "zhd040408" 
+    DBNAME = 'zhd_sql_ks'
 
     REDIS_HOST = '127.0.0.1'
     REDIS_PORT = 6379
