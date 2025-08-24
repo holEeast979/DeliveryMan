@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="header">
-            &nbsp;&nbsp; 哈尔滨工程大学外卖平台---后台管理
+            &nbsp;&nbsp; 暨南大学外卖平台---后台管理
         </div>
         <div class="body">
             <div class="liner">

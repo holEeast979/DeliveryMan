@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="header">
-            &nbsp;&nbsp; 哈尔滨工程大学外卖平台|网站作者：吴方
+            &nbsp;&nbsp; 暨南大学外卖平台
         </div>
         <div class="body">
             <!-- 左侧导航栏 -->
